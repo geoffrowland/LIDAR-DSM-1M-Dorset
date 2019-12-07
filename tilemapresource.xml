@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
     <TileMap version="1.0.0" tilemapservice="http://tms.osgeo.org/1.0.0">
-      <Title>Warminster_DSM_1M_Nat_Hill_Rend.tif</Title>
+      <Title>Chilmark_DSM_1M_Nat_Hill_Rend.tif</Title>
       <Abstract></Abstract>
       <SRS>EPSG:3857</SRS>
-      <BoundingBox minx="-2.28793076167908" miny="51.06897301344010" maxx="-2.14408561995581" maxy="51.24907729279625"/>
-      <Origin x="-2.28793076167908" y="51.06897301344010"/>
+      <BoundingBox minx="-2.14465352002058" miny="50.88939031064024" maxx="-2.00135896306884" maxy="51.24916619263925"/>
+      <Origin x="-2.14465352002058" y="50.88939031064024"/>
       <TileFormat width="256" height="256" mime-type="image/png" extension="png"/>
       <TileSets profile="mercator">
         <TileSet href="8" units-per-pixel="611.49622617187504" order="8"/>
