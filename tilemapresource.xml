@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
     <TileMap version="1.0.0" tilemapservice="http://tms.osgeo.org/1.0.0">
-      <Title>Chilmark_DSM_1M_Nat_Hill_Rend.tif</Title>
+      <Title>Cranborne_DSM_1M_Nat_Hill_Rend.tif</Title>
       <Abstract></Abstract>
       <SRS>EPSG:3857</SRS>
-      <BoundingBox minx="-2.14465352002058" miny="50.88939031064024" maxx="-2.00135896306884" maxy="51.24916619263925"/>
-      <Origin x="-2.14465352002058" y="50.88939031064024"/>
+      <BoundingBox minx="-2.00136832428339" miny="50.88939057327111" maxx="-1.85878416842498" maxy="51.02436376314682"/>
+      <Origin x="-2.00136832428339" y="50.88939057327111"/>
       <TileFormat width="256" height="256" mime-type="image/png" extension="png"/>
       <TileSets profile="mercator">
         <TileSet href="8" units-per-pixel="611.49622617187504" order="8"/>
