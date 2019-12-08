@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
     <TileMap version="1.0.0" tilemapservice="http://tms.osgeo.org/1.0.0">
-      <Title>Bere_Regis_DSM_1M_Hill_Rend.tif</Title>
+      <Title>Sydling_DSM_1M_Hill_Rend.tif</Title>
       <Abstract></Abstract>
       <SRS>EPSG:3857</SRS>
-      <BoundingBox minx="-2.35610379302743" miny="50.66411781836315" maxx="-2.14285202994594" maxy="50.79946389945973"/>
-      <Origin x="-2.35610379302743" y="50.66411781836315"/>
+      <BoundingBox minx="-2.56894119272256" miny="50.70823690500961" maxx="-2.35542125087208" maxy="50.79900843372010"/>
+      <Origin x="-2.56894119272256" y="50.70823690500961"/>
       <TileFormat width="256" height="256" mime-type="image/png" extension="png"/>
       <TileSets profile="mercator">
         <TileSet href="8" units-per-pixel="611.49622617187504" order="8"/>
