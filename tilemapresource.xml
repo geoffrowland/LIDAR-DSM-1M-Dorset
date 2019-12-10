@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
     <TileMap version="1.0.0" tilemapservice="http://tms.osgeo.org/1.0.0">
-      <Title>Harry_DSM_1M_Final_Poly.tif</Title>
+      <Title>Milford_All_DSM_1M_Nat_Hill_Rend_Clip_W.tif</Title>
       <Abstract></Abstract>
       <SRS>EPSG:3857</SRS>
-      <BoundingBox minx="-1.94480175610518" miny="50.62865514278646" maxx="-1.91649559298027" maxy="50.64666143186447"/>
-      <Origin x="-1.94480175610518" y="50.62865514278646"/>
+      <BoundingBox minx="-1.71837614264738" miny="50.66329435761401" maxx="-1.43377942040719" maxy="50.79921014863895"/>
+      <Origin x="-1.71837614264738" y="50.66329435761401"/>
       <TileFormat width="256" height="256" mime-type="image/png" extension="png"/>
       <TileSets profile="mercator">
         <TileSet href="8" units-per-pixel="611.49622617187504" order="8"/>
